@@ -1,0 +1,10 @@
+{"timestamp":"2025-07-25T06:55:03.364177","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-07-25T06:55:03.364833","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/tasks.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T06:55:03.648471Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T06:55:03.649156Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T06:55:03.649871Z","level":"info","event":"Current task name:Load_time_dim_table","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T06:55:03.650595Z","level":"info","event":"Dag name:TuneStream_ETL","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T06:55:03.684756","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-07-25T06:55:03.725826Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T06:55:03.726586Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T06:55:03.726923Z","level":"info","event":"Task operator:<Task(PythonOperator): Load_time_dim_table>","chan":"stdout","logger":"task"}

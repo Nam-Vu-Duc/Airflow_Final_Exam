@@ -1,0 +1,25 @@
+{"timestamp":"2025-07-25T06:55:05.254438","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-07-25T06:55:05.255306","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/tasks.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T06:55:05.303237Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T06:55:05.303776Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T06:55:05.304277Z","level":"info","event":"Current task name:data_quality_checks","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T06:55:05.304693Z","level":"info","event":"Dag name:TuneStream_ETL","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T06:55:05.308999Z","level":"info","event":"Passed: artists has 69 rows.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T06:55:05.311567Z","level":"info","event":"Passed: songplays has 6820 rows.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T06:55:05.313098Z","level":"info","event":"Passed: songs has 71 rows.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T06:55:05.315140Z","level":"info","event":"Passed: time has 6813 rows.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T06:55:05.316741Z","level":"info","event":"Passed: users has 96 rows.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T06:55:05.318099Z","level":"info","event":"Passed: artists has 0 NULL values.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T06:55:05.319495Z","level":"info","event":"Passed: songplays has 0 NULL values.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T06:55:05.320935Z","level":"info","event":"Passed: songs has 0 NULL values.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T06:55:05.322448Z","level":"info","event":"Passed: time has 0 NULL values.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T06:55:05.324263Z","level":"info","event":"Passed: users has 0 NULL values.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T06:55:05.326804Z","level":"info","event":"Passed: artists has 0 duplicate values.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T06:55:05.332372Z","level":"info","event":"Passed: songplays has 0 duplicate values.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T06:55:05.334308Z","level":"info","event":"Passed: songs has 0 duplicate values.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T06:55:05.338974Z","level":"info","event":"Passed: time has 0 duplicate values.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T06:55:05.340671Z","level":"info","event":"Passed: users has 0 duplicate values.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T06:55:05.341349","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-07-25T06:55:05.376782Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T06:55:05.378179Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T06:55:05.379157Z","level":"info","event":"Task operator:<Task(PythonOperator): data_quality_checks>","chan":"stdout","logger":"task"}

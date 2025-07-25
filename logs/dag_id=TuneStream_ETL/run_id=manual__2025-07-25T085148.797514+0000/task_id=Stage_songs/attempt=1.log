@@ -1,0 +1,81 @@
+{"timestamp":"2025-07-25T08:51:51.614688","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-07-25T08:51:51.615494","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/tasks.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T08:51:51.666777Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:51.667202Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:51.667798Z","level":"info","event":"Current task name:Stage_songs","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:51.668170Z","level":"info","event":"Dag name:TuneStream_ETL","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:51.966933Z","level":"info","event":"Load total: 0 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:51.976608Z","level":"info","event":"Load total: 1 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:51.988013Z","level":"info","event":"Load total: 2 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.000254Z","level":"info","event":"Load total: 3 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.006851Z","level":"info","event":"Load total: 4 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.012866Z","level":"info","event":"Load total: 5 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.020021Z","level":"info","event":"Load total: 6 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.029378Z","level":"info","event":"Load total: 7 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.037505Z","level":"info","event":"Load total: 8 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.044225Z","level":"info","event":"Load total: 9 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.050607Z","level":"info","event":"Load total: 10 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.056518Z","level":"info","event":"Load total: 11 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.062378Z","level":"info","event":"Load total: 12 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.067955Z","level":"info","event":"Load total: 13 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.078383Z","level":"info","event":"Load total: 14 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.090906Z","level":"info","event":"Load total: 15 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.102005Z","level":"info","event":"Load total: 16 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.111019Z","level":"info","event":"Load total: 17 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.121171Z","level":"info","event":"Load total: 18 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.129117Z","level":"info","event":"Load total: 19 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.139435Z","level":"info","event":"Load total: 20 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.146124Z","level":"info","event":"Load total: 21 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.159244Z","level":"info","event":"Load total: 22 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.164617Z","level":"info","event":"Load total: 23 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.178094Z","level":"info","event":"Load total: 24 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.184418Z","level":"info","event":"Load total: 25 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.189739Z","level":"info","event":"Load total: 26 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.195365Z","level":"info","event":"Load total: 27 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.200999Z","level":"info","event":"Load total: 28 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.206516Z","level":"info","event":"Load total: 29 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.212341Z","level":"info","event":"Load total: 30 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.218089Z","level":"info","event":"Load total: 31 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.224141Z","level":"info","event":"Load total: 32 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.229618Z","level":"info","event":"Load total: 33 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.235560Z","level":"info","event":"Load total: 34 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.241068Z","level":"info","event":"Load total: 35 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.246215Z","level":"info","event":"Load total: 36 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.251888Z","level":"info","event":"Load total: 37 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.257298Z","level":"info","event":"Load total: 38 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.263148Z","level":"info","event":"Load total: 39 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.268523Z","level":"info","event":"Load total: 40 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.274080Z","level":"info","event":"Load total: 41 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.280463Z","level":"info","event":"Load total: 42 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.286769Z","level":"info","event":"Load total: 43 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.292336Z","level":"info","event":"Load total: 44 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.297434Z","level":"info","event":"Load total: 45 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.303092Z","level":"info","event":"Load total: 46 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.308921Z","level":"info","event":"Load total: 47 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.314467Z","level":"info","event":"Load total: 48 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.320400Z","level":"info","event":"Load total: 49 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.325491Z","level":"info","event":"Load total: 50 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.331356Z","level":"info","event":"Load total: 51 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.336859Z","level":"info","event":"Load total: 52 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.342681Z","level":"info","event":"Load total: 53 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.348270Z","level":"info","event":"Load total: 54 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.354322Z","level":"info","event":"Load total: 55 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.360399Z","level":"info","event":"Load total: 56 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.366510Z","level":"info","event":"Load total: 57 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.372520Z","level":"info","event":"Load total: 58 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.378611Z","level":"info","event":"Load total: 59 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.384687Z","level":"info","event":"Load total: 60 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.390128Z","level":"info","event":"Load total: 61 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.395910Z","level":"info","event":"Load total: 62 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.401432Z","level":"info","event":"Load total: 63 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.408218Z","level":"info","event":"Load total: 64 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.413518Z","level":"info","event":"Load total: 65 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.419930Z","level":"info","event":"Load total: 66 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.425361Z","level":"info","event":"Load total: 67 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.431424Z","level":"info","event":"Load total: 68 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.437217Z","level":"info","event":"Load total: 69 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.442941Z","level":"info","event":"Load total: 70 records","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.449112","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-07-25T08:51:52.470779Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.471220Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:51:52.472071Z","level":"info","event":"Task operator:<Task(PythonOperator): Stage_songs>","chan":"stdout","logger":"task"}

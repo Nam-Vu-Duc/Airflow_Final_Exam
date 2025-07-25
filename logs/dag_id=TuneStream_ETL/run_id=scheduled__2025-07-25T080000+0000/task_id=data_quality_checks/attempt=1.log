@@ -1,0 +1,30 @@
+{"timestamp":"2025-07-25T08:00:51.045070","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-07-25T08:00:51.045564","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/tasks.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T08:00:51.098874Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:00:51.099427Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:00:51.100049Z","level":"info","event":"Current task name:data_quality_checks","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:00:51.100259Z","level":"info","event":"Dag name:TuneStream_ETL","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:00:51.103297Z","level":"info","event":"Passed: artists has 69 rows.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:00:51.105952Z","level":"info","event":"Passed: songplays has 6820 rows.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:00:51.107652Z","level":"info","event":"Passed: songs has 71 rows.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:00:51.109670Z","level":"info","event":"Passed: time has 6813 rows.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:00:51.110926Z","level":"info","event":"Passed: users has 96 rows.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:00:51.112175Z","level":"info","event":"Passed: artists has 69 rows.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:00:51.114202Z","level":"info","event":"Passed: songplays has 6820 rows.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:00:51.115259Z","level":"info","event":"Passed: songs has 71 rows.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:00:51.116808Z","level":"info","event":"Passed: time has 6813 rows.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:00:51.118040Z","level":"info","event":"Passed: users has 96 rows.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:00:51.119133Z","level":"info","event":"Passed: artists has 0 NULL values.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:00:51.120222Z","level":"info","event":"Passed: songplays has 0 NULL values.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:00:51.121232Z","level":"info","event":"Passed: songs has 0 NULL values.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:00:51.122499Z","level":"info","event":"Passed: time has 0 NULL values.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:00:51.123704Z","level":"info","event":"Passed: users has 0 NULL values.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:00:51.125308Z","level":"info","event":"Passed: artists has 0 duplicate values.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:00:51.128658Z","level":"info","event":"Passed: songplays has 0 duplicate values.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:00:51.130331Z","level":"info","event":"Passed: songs has 0 duplicate values.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:00:51.133648Z","level":"info","event":"Passed: time has 0 duplicate values.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:00:51.135108Z","level":"info","event":"Passed: users has 0 duplicate values.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:00:51.135594","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-07-25T08:00:51.148068Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:00:51.148660Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T08:00:51.149013Z","level":"info","event":"Task operator:<Task(PythonOperator): data_quality_checks>","chan":"stdout","logger":"task"}
